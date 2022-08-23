@@ -1,1 +1,6 @@
-"@egoist/prettier-config"
+{
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "printWidth": 120
+}

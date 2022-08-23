@@ -24,11 +24,14 @@
   "license": "MIT",
   "devDependencies": {
     "@egoist/prettier-config": "1.0.0",
-    "@wagmi/core": "^0.5.4",
     "prettier": "2.5.1",
     "solid-js": "^1.4.8",
     "tsup": "6.0.1",
     "typescript": "4.5.4",
     "vitest": "0.12.6"
+  },
+  "dependencies": {
+    "@tanstack/query-core": "^4.2.1",
+    "@wagmi/core": "^0.5.4"
   }
 }
